@@ -1,1 +1,4 @@
-.ipynb_notebooks
+.ipynb_checkpoints
+data
+aug_data
+iris_tracker.h5
